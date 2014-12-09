@@ -13,6 +13,8 @@
 <description lang="de">Einfaches Programm mit Hallo Ausgabe</description>
 <platform>all</platform>
 <forum></forum>
+<source>https://github.com/P3pp3Rde/kodi/plugin.video.helloworld</source>
+<email>michael.doe@gmx.de</email>
 
 </extension>
 </addon>

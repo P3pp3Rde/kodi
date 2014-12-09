@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="amazon" version="0.0.1" name="Amazon" provider-name="P3pp3Rde">
 <requires></requires>
-<extension point="xbmc.python.pluginsource" library="amazonprime.py">
+<extension point="xbmc.python.pluginsource" library="tvstreamer.py">
 <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
-<summary>Amazon Prime</summary>
-<description>Amazon Prime Plugin for xbmc</description>
+<summary>TV Streamer</summary>
+<description>TV Streams anschauen</description>
 <platform>all</platform>
 </extension>
 </addon>
