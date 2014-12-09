@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="helloworld" version="0.0.1" name="Hello World" provider-name="P3pp3Rde">
+<requires>
+	<import addon="xbmc.python" version="2.14.0"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="helloworld.py">
+	<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary lang="en">Hello World</summary>
+<description lang="en">Simple program to say hello.</description>
+<summary lang="de">Hallo Welt</summary>
+<description lang="de">Einfaches Programm mit Hallo Ausgabe</description>
+<platform>all</platform>
+<forum></forum>
+
+</extension>
+</addon>
